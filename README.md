@@ -5,8 +5,8 @@ I'm participating to the Newbie Contest challenges: https://www.newbiecontest.or
 In progress:
   - ClientSide: 45%
   - Crack Me: 10%
-  - Logic:
-  - Steganography:
+  - Logic: 14%
+  - Steganography: 14%
 
 ### Category: ClientSide
 
